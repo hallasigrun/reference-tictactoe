@@ -8,7 +8,7 @@ global._ = require('lodash');
 
 // Require from common library.
 global._require = function(moduleName){
-    return require('client/src/common/' + moduleName)
+    return require(process.env.PWD + '/client/src/common/' + moduleName)
 };
 
 global.inject = _require('framework/inject');
