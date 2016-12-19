@@ -2,18 +2,18 @@
 1 verbose cli [ 'C:\\Program Files (x86)\\nodejs\\node.exe',
 1 verbose cli   'C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
 1 verbose cli   'run',
-1 verbose cli   'test' ]
+1 verbose cli   'start' ]
 2 info using npm@3.10.10
 3 info using node@v7.2.1
-4 verbose run-script [ 'pretest', 'test', 'posttest' ]
-5 info lifecycle an-outlandish-mean-app@1.0.0~pretest: an-outlandish-mean-app@1.0.0
-6 silly lifecycle an-outlandish-mean-app@1.0.0~pretest: no script for pretest, continuing
-7 info lifecycle an-outlandish-mean-app@1.0.0~test: an-outlandish-mean-app@1.0.0
-8 verbose lifecycle an-outlandish-mean-app@1.0.0~test: unsafe-perm in lifecycle true
-9 verbose lifecycle an-outlandish-mean-app@1.0.0~test: PATH: C:\Program Files (x86)\nodejs\node_modules\npm\bin\node-gyp-bin;C:\Users\HallaSigrún\Documents\GitHub\Hagnytgaedastjornun\reference-tictactoe\node_modules\.bin;C:\Users\HallaSigrún\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Docker Toolbox;C:\Users\HallaSigrún\.sdkman\candidates\gradle\current\bin;C:\Users\HallaSigrún\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\HallaSigrún\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Microsoft SQL Server\120\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn;C:\Program Files\Microsoft SQL Server\110\Tools\Binn;C:\Program Files\Microsoft SQL Server\110\DTS\Binn;C:\Program Files (x86)\Skype\Phone;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\Microsoft\Web Platform Installer;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit;C:\Program Files\Git\cmd;C:\Program Files (x86)\Heroku\bin;C:\Program Files (x86)\git\cmd;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Yarn\bin;C:\Program Files (x86)\nodejs;C:\Program Files\Amazon\AWSCLI;C:\Program Files\Java\jdk1.8.0_101\bin;C:\Users\HallaSigrún\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Docker Toolbox;C:\Users\HallaSigrún\AppData\Local\Yarn\.bin;C:\Users\HallaSigrún\AppData\Roaming\npm;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
-10 verbose lifecycle an-outlandish-mean-app@1.0.0~test: CWD: C:\Users\HallaSigrún\Documents\GitHub\Hagnytgaedastjornun\reference-tictactoe
-11 silly lifecycle an-outlandish-mean-app@1.0.0~test: Args: [ '/d /s /c',
-11 silly lifecycle   'set NODE_PATH=. && nodemon ./node_modules/.bin/jest' ]
+4 verbose run-script [ 'prestart', 'start', 'poststart' ]
+5 info lifecycle an-outlandish-mean-app@1.0.0~prestart: an-outlandish-mean-app@1.0.0
+6 silly lifecycle an-outlandish-mean-app@1.0.0~prestart: no script for prestart, continuing
+7 info lifecycle an-outlandish-mean-app@1.0.0~start: an-outlandish-mean-app@1.0.0
+8 verbose lifecycle an-outlandish-mean-app@1.0.0~start: unsafe-perm in lifecycle true
+9 verbose lifecycle an-outlandish-mean-app@1.0.0~start: PATH: C:\Program Files (x86)\nodejs\node_modules\npm\bin\node-gyp-bin;C:\Users\HallaSigrún\Documents\GitHub\Hagnytgaedastjornun\reference-tictactoe\node_modules\.bin;C:\Users\HallaSigrún\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Docker Toolbox;C:\Users\HallaSigrún\.sdkman\candidates\gradle\current\bin;C:\Users\HallaSigrún\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\HallaSigrún\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Microsoft SQL Server\120\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn;C:\Program Files\Microsoft SQL Server\110\Tools\Binn;C:\Program Files\Microsoft SQL Server\110\DTS\Binn;C:\Program Files (x86)\Skype\Phone;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\Microsoft\Web Platform Installer;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit;C:\Program Files\Git\cmd;C:\Program Files (x86)\Heroku\bin;C:\Program Files (x86)\git\cmd;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\nodejs;C:\Program Files (x86)\Yarn\bin;C:\cygwin64\bin;C:\Python27;C:\Program Files\Amazon\AWSCLI;C:\Program Files\Java\jdk1.8.0_101\bin;C:\Users\HallaSigrún\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Docker Toolbox;C:\Users\HallaSigrún\AppData\Roaming\npm;C:\Users\HallaSigrún\AppData\Local\Yarn\.bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+10 verbose lifecycle an-outlandish-mean-app@1.0.0~start: CWD: C:\Users\HallaSigrún\Documents\GitHub\Hagnytgaedastjornun\reference-tictactoe
+11 silly lifecycle an-outlandish-mean-app@1.0.0~start: Args: [ '/d /s /c',
+11 silly lifecycle   'set NODE_PATH=. && npm run migratedb && nodemon run.js' ]
 12 verbose stack Error: kill ENOSYS
 12 verbose stack     at exports._errnoException (util.js:1022:11)
 12 verbose stack     at process.kill (internal/process.js:173:13)
@@ -25,7 +25,7 @@
 12 verbose stack     at Signal.wrap.onsignal (internal/process.js:200:44)
 13 verbose cwd C:\Users\HallaSigrún\Documents\GitHub\Hagnytgaedastjornun\reference-tictactoe
 14 error Windows_NT 10.0.14393
-15 error argv "C:\\Program Files (x86)\\nodejs\\node.exe" "C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "run" "test"
+15 error argv "C:\\Program Files (x86)\\nodejs\\node.exe" "C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "run" "start"
 16 error node v7.2.1
 17 error npm  v3.10.10
 18 error code ENOSYS
