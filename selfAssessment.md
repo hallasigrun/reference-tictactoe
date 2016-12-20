@@ -9,6 +9,8 @@ Then there was a serious incident in my family and because of that I lost a few 
 ## URLs and access
 
 1. Jenkins URL and username and password.
+	http://82.221.48.203:8080/
+	
 
 2. Game URL (AWS)
 
