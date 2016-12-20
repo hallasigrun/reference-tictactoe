@@ -1,5 +1,9 @@
 ## The project
-I started out with everything on Windows, which was a mistake. I 
+I started out with everything on Windows, which was a mistake. I then set up a virtual machine and it did not work out. I tried to create as much space in my machine and I could but to no avail. Gave up and continued in Windows.
+I was told to google my problem but could not find out what was wrong. I ask my friend for help and he also could not find the problem. 
+
+Then there was a serious incident in my family and because of that I lost a few days. 
+
 
 
 ## URLs and access
